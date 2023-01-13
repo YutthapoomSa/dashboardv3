@@ -706,6 +706,71 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div class="col-xl-8 col-lg-5">
+                                            <!-- DataTales Example -->
+                    <div class="card shadow mb-4">
+                        <div class="card-header py-3">
+                            <h6 class="m-0 font-weight-bold text-primary">5 อันดับโรคผู้ป่วยใน</h6>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table" id="dataTable" width="100%" cellspacing="0">
+                                    <thead>
+                                        <tr align="center">
+                                            <th>ICD10</th>
+                                            <th>Diag</th>
+                                            <th>ชื่อโรค</th>
+                                            <th>ชาย</th>
+                                            <th>หญิง</th>
+                                            <th>รวม (ราย)</th>
+                                        </tr>
+                                        <tr>
+                                            <td>F1550</td>
+                                            <td>Other stimulants including caffeine, Psychotic disorder, Schizophrenia-like</td>
+                                            <td></td>
+                                            <td>74</td>
+                                            <td>10</td>
+                                            <td>84</td>
+                                        </tr>
+                                        <tr>
+                                            <td>F1525</td>
+                                            <td>Other stimulants including caffeine, Dependence sydrome, Continuous use</td>
+                                            <td></td>
+                                            <td>65</td>
+                                            <td>10</td>
+                                            <td>75</td>
+                                        </tr>
+                                        <tr>
+                                            <td>F155</td>
+                                            <td>Caffeine psychotic disorder</td>
+                                            <td>กลุ่มอาการผิดปกติแบบโรคจิต</td>
+                                            <td>29</td>
+                                            <td>0</td>
+                                            <td>29</td>
+                                        </tr>
+                                        <tr>
+                                            <td>F1025</td>
+                                            <td>Alcohol, Dependence sydrome, Continuous use</td>
+                                            <td></td>
+                                            <td>23</td>
+                                            <td>1</td>
+                                            <td>24</td>
+                                        </tr>
+                                        <tr>
+                                            <td>F1950</td>
+                                            <td>Multiple drug use and use of other psychoactive substances, Psychotic disorder, Schizophrenia-like</td>
+                                            <td></td>
+                                            <td>15</td>
+                                            <td>1</td>
+                                            <td>16</td>
+                                        </tr>
+
+                                    </thead>
+</table>
+                            </div>
+                        </div>
+                        
                     </div>
 
                     
