@@ -418,13 +418,13 @@
                     <div class="row">
 
                         <!-- Content Column -->
-                        <div class="col-8">
+                        <div class="col-12">
 
                             <!-- Project Card Example -->
                             <div class="card shadow mb-4">
                                  <div class="card-header py-3">
                                     <h6 class="m-0 font-weight-bold text-primary">สถิติผู้ป่วยในวันนี้</h6>
-                                    จำนวนเตียงทั้งหมด 282 เตียง
+                                    จำนวนเตียงทั้งหมด 24 เตียง
                                 </div>
                                 
                                 <div class="card-body">
