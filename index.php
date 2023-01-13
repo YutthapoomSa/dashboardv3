@@ -263,10 +263,9 @@
                                                 ผู้รับบริการวันนี้</div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800">36</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">(เดือนนี้ 161 คน / 263 ครั้ง)</div>
-                                                <br>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-stethoscope fa-2x text-gray-300"></i>
+                                            <i class="fas fa-stethoscope fa-3x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -275,17 +274,17 @@
 
                         <!-- Earnings (Monthly) Card Example -->
                         <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-success shadow h-100 py-2">
+                            <div class="card border-left-warning shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2"><br>
-                                            <div class="h6 mb-0 font-weight-bold text-success text-uppercase mb-1">
+                                            <div class="h6 mb-0 font-weight-bold text-warning text-uppercase mb-1">
                                             Admit วันนี้</div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800">1</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">(เดือนนี้ 43 คน / 43 ครั้ง)</div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                                            <i class="fas fa-heartbeat fa-3x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -304,7 +303,7 @@
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">(เดือนนี้ 0 คน / 0 ครั้ง)</div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                                            <i class="fas fa-cannabis fa-3x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -313,17 +312,17 @@
 
                         <!-- Pending Requests Card Example -->
                         <div class="col-xl-3 col-md-6 mb-3">
-                            <div class="card border-left-warning shadow h-100 py-2">
+                            <div class="card border-left-success shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2"><br>
-                                            <div class="h6 mb-0 font-weight-bold text-warning text-uppercase mb-1">
+                                            <div class="h6 mb-0 font-weight-bold text-success text-uppercase mb-1">
                                             ทันตกรรม วันนี้</div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800">0</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">(เดือนนี้ 0 คน / 0 ครั้ง)</div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-comments fa-2x text-gray-300"></i>
+                                            <i class="fas fa-tooth fa-3x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -336,17 +335,17 @@
                     <div class="row">
                         <!-- Earnings (Monthly) Card Example -->
                         <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-primary shadow h-100 py-2">
+                            <div class="card bg-primary shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                            <div class="h6 mb-0 font-weight-bold text-primary text-uppercase mb-1">
+                                            <div class="h6 mb-0 font-weight-bold text-gray-800 text-uppercase mb-1">
                                             วันนี้</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">X-Ray</div>
                                             <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 0 คน / 0 ครั้ง</div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                                            <i class="fas fa-radiation-alt fa-3x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -355,17 +354,17 @@
 
                         <!-- Earnings (Monthly) Card Example -->
                         <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-success shadow h-100 py-2">
+                            <div class="card bg-warning shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                            <div class="h6 mb-0 font-weight-bold text-success text-uppercase mb-1">
+                                            <div class="h6 mb-0 font-weight-bold text-gray-800 text-uppercase mb-1">
                                             วันนี้</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">อุบัติเหตุ</div>
                                             <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 0 คน / 0 ครั้ง</div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                                            <i class="fas fa-exclamation-triangle fa-3x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -374,17 +373,17 @@
 
                         <!-- Earnings (Monthly) Card Example -->
                         <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-info shadow h-100 py-2">
+                            <div class="card bg-info shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                            <div class="h6 mb-0 font-weight-bold text-info text-uppercase mb-1">
+                                            <div class="h6 mb-0 font-weight-bold text-gray-800 text-uppercase mb-1">
                                             วันนี้</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">กายภาพบำบัด</div>
                                             <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 0 คน / 0 ครั้ง</div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                                            <i class="fas fa-user-md fa-3x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -393,17 +392,17 @@
 
                         <!-- Pending Requests Card Example -->
                         <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-warning shadow h-100 py-2">
+                            <div class="card bg-success shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                            <div class="h6 mb-0 font-weight-bold text-warning text-uppercase mb-1">
+                                            <div class="h6 mb-0 font-weight-bold text-gray-800 text-uppercase mb-1">
                                             วันนี้</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">ผู้ป่วยผ่าตัด</div>
                                             <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 0 คน / 0 ครั้ง</div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-comments fa-2x text-gray-300"></i>
+                                            <i class="fas fa-syringe fa-3x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -411,17 +410,23 @@
                         </div>
                     </div>
 
+
+                    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+                        <h1 class="h5 mb-0 text-gray-800">ข้อมูลเตียงผู้ป่วย</h1>
+                    </div>
                     <!-- Content Row -->
                     <div class="row">
 
                         <!-- Content Column -->
-                        <div class="col-lg-6 mb-4">
+                        <div class="col-8">
 
                             <!-- Project Card Example -->
                             <div class="card shadow mb-4">
                                  <div class="card-header py-3">
                                     <h6 class="m-0 font-weight-bold text-primary">สถิติผู้ป่วยในวันนี้</h6>
+                                    จำนวนเตียงทั้งหมด 282 เตียง
                                 </div>
+                                
                                 <div class="card-body">
                                 <div class="table-responsive">
                                 <table class="table" id="dataTable" width="100%">
@@ -429,27 +434,27 @@
     
                                         <tr >
                                             <th ><a href="">รับใหม่วันนี้</a></th>
-                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-danger btn-sm">1 เตียง</button></a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-success btn-sm">1 เตียง</button></a></th>
                                             <th ><a href="">สิทธิ์ชำระเงินและเบิกได้</a></th>
-                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-warning btn-sm">2 เตียง</button></a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-success btn-sm">2 เตียง</button></a></th>
                                         </tr>
                                         <tr>
                                             <th ><a href="">จำหน่ายวันนี้ </a></th>
-                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-info btn-sm">4 เตียง</button></a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-success btn-sm">4 เตียง</button></a></th>
                                             <th ><a href="">สิทธิ์ UC</a></th>
-                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-primary btn-sm">1 เตียง</button></a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-success btn-sm">1 เตียง</button></a></th>
                                         </tr>
                                         <tr>
                                             <th ><a href="">Admit อยู่ </a></th>
-                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-danger btn-sm">3 เตียง</button></a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-success btn-sm">3 เตียง</button></a></th>
                                             <th ><a href="">สิทธิอื่นๆ </a></th>
-                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-danger btn-sm">1 เตียง</button></a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-success btn-sm">1 เตียง</button></a></th>
                                         </tr>
                                         <tr>
                                             <th ><a href="">เตียงว่าง </a></th>
-                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-info btn-sm">8 เตียง</button></a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-success btn-sm">8 เตียง</button></a></th>
                                             <th ><a href="">อัตราการครองเตียง </a></th>
-                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-info btn-sm">4 เตียง</button></a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-success btn-sm">4 เตียง</button></a></th>
                                         </tr>
                                     </thead>
                                     </table>
@@ -458,20 +463,19 @@
                             </div>
 
                         </div>
+                        
+                    </div>
+                    
 
-                    </div>
-                    <div class="d-sm-flex align-items-center justify-content-between mb-4">
-                        <h1 class="h5 mb-0 text-gray-800">ข้อมูลเตียงผู้ป่วย</h1>
-                    </div>
                     <div class="row">
                     
                     <div class="col-xl-4 col-md-6 mb-4">
-                            <div class="card border-bottom-info shadow h-100 py-2">
+                            <div class="card border-bottom-primary shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ศูนย์รับผู้ป่วยใน</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 24 / 40 เตียง (ว่าง 16)
+                                        <div class="h7 mb-0 font-weight-bold text-primary text-uppercase mb-1">ศูนย์รับผู้ป่วยใน</div>
+                                            <div class="h5 mb-0 font-weight-bold text-primary text-uppercase mb-1">Admit 24 / 40 เตียง (ว่าง 16)
                                             </div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
@@ -479,7 +483,7 @@
                                                 </div>
                                                 <div class="col">
                                                     <div class="progress progress-sm mr-2">
-                                                        <div class="progress-bar bg-info" role="progressbar"
+                                                        <div class="progress-bar bg-primary" role="progressbar"
                                                             style="width: 80%" aria-valuenow="50" aria-valuemin="0"
                                                             aria-valuemax="100"></div>
                                                     </div>
@@ -487,7 +491,7 @@
                                             </div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                                            <i class="fas fa-bed fa-2x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -516,7 +520,7 @@
                                             </div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                                            <i class="fas fa-bed fa-2x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -546,7 +550,7 @@
                                             </div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                                            <i class="fas fa-bed fa-2x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -555,12 +559,12 @@
 
 
                         <div class="col-xl-4 col-md-6 mb-4">
-                            <div class="card border-bottom-info shadow h-100 py-2">
+                            <div class="card border-bottom-secondary shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยพิเศษ 1</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 10 / 40 เตียง (ว่าง 20)
+                                        <div class="h7 mb-0 font-weight-bold text-secondary text-uppercase mb-1">ห้องผู้ป่วยพิเศษ 1</div>
+                                            <div class="h5 mb-0 font-weight-bold text-secondary text-uppercase mb-1">Admit 10 / 40 เตียง (ว่าง 20)
                                             </div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
@@ -568,7 +572,7 @@
                                                 </div>
                                                 <div class="col">
                                                     <div class="progress progress-sm mr-2">
-                                                        <div class="progress-bar bg-info" role="progressbar"
+                                                        <div class="progress-bar bg-secondary" role="progressbar"
                                                             style="width: 50%" aria-valuenow="50" aria-valuemin="0"
                                                             aria-valuemax="100"></div>
                                                     </div>
@@ -576,97 +580,7 @@
                                             </div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="col-xl-4 col-md-6 mb-4">
-                            <div class="card border-bottom-info shadow h-100 py-2">
-                                <div class="card-body">
-                                    <div class="row no-gutters align-items-center">
-                                        <div class="col mr-2">
-                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยพิเศษ 2</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 30 / 40 เตียง (ว่าง 10)
-                                            </div>
-                                            <div class="row no-gutters align-items-center">
-                                                <div class="col-auto">
-                                                    <div class="text-xs mr-3 font-weight-bold text-gray-800">ครองเตียง</div>
-                                                </div>
-                                                <div class="col">
-                                                    <div class="progress progress-sm mr-2">
-                                                        <div class="progress-bar bg-info" role="progressbar"
-                                                            style="width: 90%" aria-valuenow="50" aria-valuemin="0"
-                                                            aria-valuemax="100"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-auto">
-                                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="col-xl-4 col-md-6 mb-4">
-                            <div class="card border-bottom-info shadow h-100 py-2">
-                                <div class="card-body">
-                                    <div class="row no-gutters align-items-center">
-                                        <div class="col mr-2">
-                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยพิเศษ 3</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 24 / 40 เตียง (ว่าง 16)
-                                            </div>
-                                            <div class="row no-gutters align-items-center">
-                                                <div class="col-auto">
-                                                    <div class="text-xs mr-3 font-weight-bold text-gray-800">ครองเตียง</div>
-                                                </div>
-                                                <div class="col">
-                                                    <div class="progress progress-sm mr-2">
-                                                        <div class="progress-bar bg-info" role="progressbar"
-                                                            style="width: 90%" aria-valuenow="50" aria-valuemin="0"
-                                                            aria-valuemax="100"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-auto">
-                                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="col-xl-4 col-md-6 mb-4">
-                            <div class="card border-bottom-info shadow h-100 py-2">
-                                <div class="card-body">
-                                    <div class="row no-gutters align-items-center">
-                                        <div class="col mr-2">
-                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยพิเศษ 4</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 40 / 40 เตียง (0)
-                                            </div>
-                                            <div class="row no-gutters align-items-center">
-                                                <div class="col-auto">
-                                                    <div class="text-xs mr-3 font-weight-bold text-gray-800">ครองเตียง</div>
-                                                </div>
-                                                <div class="col">
-                                                    <div class="progress progress-sm mr-2">
-                                                        <div class="progress-bar bg-info" role="progressbar"
-                                                            style="width: 90%" aria-valuenow="50" aria-valuemin="0"
-                                                            aria-valuemax="100"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-auto">
-                                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                                            <i class="fas fa-bed fa-2x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -696,7 +610,7 @@
                                             </div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                                            <i class="fas fa-bed fa-2x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -705,12 +619,12 @@
 
 
                         <div class="col-xl-4 col-md-6 mb-4">
-                            <div class="card border-bottom-info shadow h-100 py-2">
+                            <div class="card border-bottom-success shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยสูติรีเวช</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 12 / 40 เตียง (ว่าง 38)
+                                        <div class="h7 mb-0 font-weight-bold text-success text-uppercase mb-1">ห้องผู้ป่วยสูติรีเวช</div>
+                                            <div class="h5 mb-0 font-weight-bold text-success text-uppercase mb-1">Admit 12 / 40 เตียง (ว่าง 38)
                                             </div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
@@ -718,7 +632,7 @@
                                                 </div>
                                                 <div class="col">
                                                     <div class="progress progress-sm mr-2">
-                                                        <div class="progress-bar bg-info" role="progressbar"
+                                                        <div class="progress-bar bg-success" role="progressbar"
                                                             style="width: 90%" aria-valuenow="50" aria-valuemin="0"
                                                             aria-valuemax="100"></div>
                                                     </div>
@@ -726,7 +640,7 @@
                                             </div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                                            <i class="fas fa-bed fa-2x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -738,9 +652,63 @@
 
                     </div>
                     <div class="d-sm-flex align-items-center justify-content-between mb-4">
-                        <h1 class="h5 mb-0 text-gray-800">ภาพรูปผู้ป่วยใน</h1>
-                        
+                        <h1 class="h5 mb-0 text-gray-800">ข้อมูลผู้ป่วยใน</h1>
                     </div>
+
+                    <div class="row">
+
+                        <div class="col-xl-6 col-lg-5">
+                            <div class="card shadow mb-4">
+                                <div class="card-header py-3">
+                                    <h6 class="m-0 font-weight-bold text-primary">จำนวนผู้ป่วยใน ปีงบประมาณ 2566</h6>
+                                </div>
+                                <div class="card-body">
+                                    <div class="chart-bar">
+                                        <canvas id="myBarChart"></canvas>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-6 col-lg-5">
+                            <div class="card shadow mb-4">
+                                <div class="card-header py-3">
+                                    <h6 class="m-0 font-weight-bold text-primary">อัตราการครองเตียง ปีงบประมาณ 2566</h6>
+                                </div>
+                                <div class="card-body">
+                                    <div class="chart-bar">
+                                        <canvas id="myBarChart1"></canvas>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    <div class="col-xl-4 col-lg-5">
+                            <div class="card shadow mb-4">
+                                <!-- Card Header - Dropdown -->
+                                <div
+                                    class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                                    <h6 class="m-0 font-weight-bold text-primary">แสดงสัดส่วนเพศชาย-หญิงที่นอนโรงพยาบาล</h6>
+                                </div>
+                                <!-- Card Body -->
+                                <div class="card-body">
+                                    <div class="chart-pie pt-4 pb-2">
+                                        <canvas id="myPieChart"></canvas>
+                                    </div>
+                                    <div class="mt-4 text-center small">
+                                        <span class="mr-2">
+                                            <i class="fas fa-circle text-primary"></i> หญิง
+                                        </span>
+                                        <span class="mr-2">
+                                            <i class="fas fa-circle text-success"></i> ชาย
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    
                 </div>
                 <!-- /.container-fluid -->
 
@@ -804,6 +772,8 @@
     <!-- Page level custom scripts -->
     <script src="js/demo/chart-area-demo.js"></script>
     <script src="js/demo/chart-pie-demo.js"></script>
+    <script src="js/demo/chart-bar-demo.js"></script>
+    <script src="js/demo/chart-bar-demo1.js"></script>
 
 </body>
 

@@ -28,17 +28,17 @@ function number_format(number, decimals, dec_point, thousands_sep) {
 }
 
 // Bar Chart Example
-var ctx = document.getElementById("myBarChart");
-var myBarChart = new Chart(ctx, {
+var ctx = document.getElementById("myBarChart1");
+var myBarChart1 = new Chart(ctx, {
   type: 'bar',
   data: {
-    labels: ["มกราคม ", "กุมภาพันธ์", "มีนาคม ", "เมษายน", "พฤษภาคม ", "มิถุนายน"],
+    labels: ["มกราคม", "กุมภาพันธ์", "มีนาคม", "เมษายน"],
     datasets: [{
       label: "Revenue",
-      backgroundColor: "#4682B4",
-      hoverBackgroundColor: "#4682B4",
-      borderColor: "#4682B4",
-      data: [21, 149, 51, 78, 98,12 ],
+      backgroundColor: "#32CD32",
+      hoverBackgroundColor: "#32CD32",
+      borderColor: "#4e73df",
+      data: [42, 53, 62, 149, 98 ],
     }],
   },
   options: {
@@ -73,7 +73,7 @@ var myBarChart = new Chart(ctx, {
           padding: 10,
           // Include a dollar sign in the ticks
           callback: function(value, index, values) {
-            return  number_format(value)+ ' คน';
+            return  number_format(value) + ' %';
           }
         },
         gridLines: {
@@ -103,7 +103,7 @@ var myBarChart = new Chart(ctx, {
       callbacks: {
         label: function(tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
-          return datasetLabel + ': คน' + number_format(tooltipItem.yLabel);
+          return datasetLabel + ': %' + number_format(tooltipItem.yLabel);
         }
       }
     },
