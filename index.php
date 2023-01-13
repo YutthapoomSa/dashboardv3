@@ -299,8 +299,8 @@
                                         <div class="col mr-2"><br>
                                             <div class="h6 mb-0 font-weight-bold text-info text-uppercase mb-1">
                                             แพทย์แผนไทย วันนี้</div>
-                                            <div class="h5 mb-0 font-weight-bold text-gray-800">0</div>
-                                            <div class="h7 mb-0 font-weight-bold text-gray-800">(เดือนนี้ 0 คน / 0 ครั้ง)</div>
+                                            <div class="h5 mb-0 font-weight-bold text-gray-800">3</div>
+                                            <div class="h7 mb-0 font-weight-bold text-gray-800">(เดือนนี้ 3 คน / 3 ครั้ง)</div>
                                         </div>
                                         <div class="col-auto">
                                             <i class="fas fa-cannabis fa-3x text-gray-300"></i>
@@ -318,8 +318,8 @@
                                         <div class="col mr-2"><br>
                                             <div class="h6 mb-0 font-weight-bold text-success text-uppercase mb-1">
                                             ทันตกรรม วันนี้</div>
-                                            <div class="h5 mb-0 font-weight-bold text-gray-800">0</div>
-                                            <div class="h7 mb-0 font-weight-bold text-gray-800">(เดือนนี้ 0 คน / 0 ครั้ง)</div>
+                                            <div class="h5 mb-0 font-weight-bold text-gray-800">10</div>
+                                            <div class="h7 mb-0 font-weight-bold text-gray-800">(เดือนนี้ 10 คน / 10 ครั้ง)</div>
                                         </div>
                                         <div class="col-auto">
                                             <i class="fas fa-tooth fa-3x text-gray-300"></i>
@@ -342,7 +342,7 @@
                                             <div class="h6 mb-0 font-weight-bold text-gray-800 text-uppercase mb-1">
                                             วันนี้</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">X-Ray</div>
-                                            <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 0 คน / 0 ครั้ง</div>
+                                            <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 7 คน / 7 ครั้ง</div>
                                         </div>
                                         <div class="col-auto">
                                             <i class="fas fa-radiation-alt fa-3x text-gray-300"></i>
@@ -361,7 +361,7 @@
                                             <div class="h6 mb-0 font-weight-bold text-gray-800 text-uppercase mb-1">
                                             วันนี้</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">อุบัติเหตุ</div>
-                                            <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 0 คน / 0 ครั้ง</div>
+                                            <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 6 คน / 6 ครั้ง</div>
                                         </div>
                                         <div class="col-auto">
                                             <i class="fas fa-exclamation-triangle fa-3x text-gray-300"></i>
@@ -380,7 +380,7 @@
                                             <div class="h6 mb-0 font-weight-bold text-gray-800 text-uppercase mb-1">
                                             วันนี้</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">กายภาพบำบัด</div>
-                                            <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 0 คน / 0 ครั้ง</div>
+                                            <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 12 คน / 12 ครั้ง</div>
                                         </div>
                                         <div class="col-auto">
                                             <i class="fas fa-user-md fa-3x text-gray-300"></i>
@@ -399,7 +399,7 @@
                                             <div class="h6 mb-0 font-weight-bold text-gray-800 text-uppercase mb-1">
                                             วันนี้</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">ผู้ป่วยผ่าตัด</div>
-                                            <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 0 คน / 0 ครั้ง</div>
+                                            <div class="text-xs font-weight-bold text-gray-800">เดือนนี้ 3 คน / 3 ครั้ง</div>
                                         </div>
                                         <div class="col-auto">
                                             <i class="fas fa-syringe fa-3x text-gray-300"></i>
