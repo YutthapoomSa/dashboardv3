@@ -246,7 +246,7 @@
 
                     <!-- Page Heading -->
                     <div class="d-sm-flex align-items-center justify-content-between mb-4">
-                        <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
+                        <h1 class="h5 mb-0 text-gray-800">Dashboard โรงพยาบาลค่ายวชิราวุธ</h1>
                         <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i
                                 class="fas fa-download fa-sm text-white-50"></i> Generate Report</a>
                     </div>
@@ -263,12 +263,10 @@
                                                 ผู้รับบริการวันนี้</div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800">36</div>
                                             <div class="h7 mb-0 font-weight-bold text-gray-800">(เดือนนี้ 161 คน / 263 ครั้ง)</div>
-                                                
                                                 <br>
-                                            
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                                            <i class="fas fa-stethoscope fa-2x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -417,32 +415,41 @@
                     <div class="row">
 
                         <!-- Content Column -->
-                        <div class="col-lg-4 mb-4">
+                        <div class="col-lg-6 mb-4">
 
                             <!-- Project Card Example -->
                             <div class="card shadow mb-4">
-                                <div class="card-header py-3">
+                                 <div class="card-header py-3">
                                     <h6 class="m-0 font-weight-bold text-primary">สถิติผู้ป่วยในวันนี้</h6>
                                 </div>
                                 <div class="card-body">
                                 <div class="table-responsive">
-                                <table class="table table-bordered" id="dataTable" width="100%">
+                                <table class="table" id="dataTable" width="100%">
                                     <thead>
-                                        <tr>
-                                            <th width="40%"><a href="">รับใหม่วันนี้</a></th>
-                                            <th  width="60%"><a href="">สิทธิ์ชำระเงินและเบิกได้</a></th>
+    
+                                        <tr >
+                                            <th ><a href="">รับใหม่วันนี้</a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-danger btn-sm">1 เตียง</button></a></th>
+                                            <th ><a href="">สิทธิ์ชำระเงินและเบิกได้</a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-warning btn-sm">2 เตียง</button></a></th>
                                         </tr>
                                         <tr>
-                                            <th width="40%"><a href="">จำหน่ายวันนี้ </a></th>
-                                            <th  width="60%"><a href="">สิทธิ์ UC</a></th>
+                                            <th ><a href="">จำหน่ายวันนี้ </a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-info btn-sm">4 เตียง</button></a></th>
+                                            <th ><a href="">สิทธิ์ UC</a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-primary btn-sm">1 เตียง</button></a></th>
                                         </tr>
                                         <tr>
-                                            <th width="40%"><a href="">Admit อยู่ </a></th>
-                                            <th  width="60%"><a href="">สิทธิอื่นๆ </a></th>
+                                            <th ><a href="">Admit อยู่ </a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-danger btn-sm">3 เตียง</button></a></th>
+                                            <th ><a href="">สิทธิอื่นๆ </a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-danger btn-sm">1 เตียง</button></a></th>
                                         </tr>
                                         <tr>
-                                            <th width="40%"><a href="">เตียงว่าง </a></th>
-                                            <th  width="60%"><a href="">อัตราการครองเตียง </a></th>
+                                            <th ><a href="">เตียงว่าง </a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-info btn-sm">8 เตียง</button></a></th>
+                                            <th ><a href="">อัตราการครองเตียง </a></th>
+                                            <th align="left"><a href=""><button type="button" class="btn btn-outline-info btn-sm">4 เตียง</button></a></th>
                                         </tr>
                                     </thead>
                                     </table>
@@ -452,6 +459,9 @@
 
                         </div>
 
+                    </div>
+                    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+                        <h1 class="h5 mb-0 text-gray-800">ข้อมูลเตียงผู้ป่วย</h1>
                     </div>
                     <div class="row">
                     
@@ -515,12 +525,12 @@
 
 
                         <div class="col-xl-4 col-md-6 mb-4">
-                            <div class="card border-bottom-info shadow h-100 py-2">
+                            <div class="card border-bottom-warning shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">หอผู้ป่วยสามัญชาย</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 24 / 40 เตียง (ว่าง 16)
+                                        <div class="h7 mb-0 font-weight-bold text-warning text-uppercase mb-1">หอผู้ป่วยสามัญชาย</div>
+                                            <div class="h5 mb-0 font-weight-bold text-warning text-uppercase mb-1">Admit 24 / 40 เตียง (ว่าง 16)
                                             </div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
@@ -528,7 +538,7 @@
                                                 </div>
                                                 <div class="col">
                                                     <div class="progress progress-sm mr-2">
-                                                        <div class="progress-bar bg-info" role="progressbar"
+                                                        <div class="progress-bar bg-warning" role="progressbar"
                                                             style="width: 80%" aria-valuenow="50" aria-valuemin="0"
                                                             aria-valuemax="100"></div>
                                                     </div>
@@ -550,7 +560,7 @@
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
                                         <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยพิเศษ 1</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 24 / 40 เตียง (ว่าง 16)
+                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 10 / 40 เตียง (ว่าง 20)
                                             </div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
@@ -580,7 +590,7 @@
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
                                         <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยพิเศษ 2</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 24 / 40 เตียง (ว่าง 16)
+                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 30 / 40 เตียง (ว่าง 10)
                                             </div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
@@ -640,7 +650,7 @@
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
                                         <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยพิเศษ 4</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 24 / 40 เตียง (ว่าง 16)
+                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 40 / 40 เตียง (0)
                                             </div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
@@ -669,8 +679,8 @@
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยพิเศษ 2</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 24 / 40 เตียง (ว่าง 16)
+                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">หอผู้ป่วยสามัญหญิง</div>
+                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 20 / 40 เตียง (ว่าง 20)
                                             </div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
@@ -699,8 +709,8 @@
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยพิเศษ 2</div>
-                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 24 / 40 เตียง (ว่าง 16)
+                                        <div class="h7 mb-0 font-weight-bold text-info text-uppercase mb-1">ห้องผู้ป่วยสูติรีเวช</div>
+                                            <div class="h5 mb-0 font-weight-bold text-info text-uppercase mb-1">Admit 12 / 40 เตียง (ว่าง 38)
                                             </div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
@@ -726,6 +736,10 @@
 
 
 
+                    </div>
+                    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+                        <h1 class="h5 mb-0 text-gray-800">ภาพรูปผู้ป่วยใน</h1>
+                        
                     </div>
                 </div>
                 <!-- /.container-fluid -->
