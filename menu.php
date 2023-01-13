@@ -37,7 +37,7 @@
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">ข้อมูลสต็อก:</h6>
-            <a class="collapse-item" href="blank.html">ภาพรวม</a>
+            <!-- <a class="collapse-item" href="blank.html">ภาพรวม</a> -->
             <a class="collapse-item" href="stock-borrow.html">ใบยืม</a>
             <a class="collapse-item" href="PO.html">ใบสั่งซื้อ</a>
             <a class="collapse-item" href="stock-item.html">ยา</a>
