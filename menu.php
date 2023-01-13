@@ -57,7 +57,7 @@
         data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">ข้อมูลและสถิติ</h6>
-            <a class="collapse-item" href="utilities-patient.html">จำนวนผู้รับบริการ</a>
+            <a class="collapse-item" href="utilities- patient.html">จำนวนผู้รับบริการ</a>
             <a class="collapse-item" href="utilities-in-patient.html">ภาพรวมผู้ป่วยใน</a>
         </div>
     </div>
